@@ -1,0 +1,10 @@
+p:last-child{
+    color: blue;
+    background-color: black;
+}
+p:before{
+    content: url(indir.jpg);
+}
+p:after{
+    content: "-------->";
+}
